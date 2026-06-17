@@ -1,6 +1,8 @@
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
+A lightweight path conversion tool built through vibe coding, designed to quickly transform Global CDN URLs into CN CDN links. It supports video, image, and Script/CSS resources, enabling fast, seamless localization and improved access performance.
+AI agent: Gemini
 
 # Run and deploy your AI Studio app
 
